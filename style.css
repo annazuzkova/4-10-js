@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .div {
+  width: 250px;
+  height: 250px;
+  background-color: rgb(114, 165, 252);
+}
+.div-new-color {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  background-color: rgb(255, 128, 249);
+}
+body {
+  display: flex;
+  justify-content: space-between;
+} */
+/* task-3 */
+
+.play {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+}
+.rulls {
+  font-size: x-large;
+  padding: 5px 10px;
+  border: solid black 2px;
+}
+.span {
+  color: red;
+}
+.circle {
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+  background-color: rgb(251, 86, 243);
+}
+.square {
+  width: 125px;
+  height: 125px;
+  border-radius: 0;
+  background-color: rgb(251, 86, 243);
+}
+.menu {
+  display: flex;
+  gap: 50px;
+}
+.hidden {
+  display: none;
+}
